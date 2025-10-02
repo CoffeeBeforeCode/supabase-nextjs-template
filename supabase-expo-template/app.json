@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "RAZ Supabase Expo Template",
-    "slug": "supabase-expo-template",
-    "version": "1.0.0",
+    "name": "Solo-Pro",
+    "slug": "solo-pro",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "supabaseexpotemplate",
+    "scheme": "solopro",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.razikus.supabase-expo-template"
+      "bundleIdentifier": "app.solo-pro"
     },
     "android": {
       "adaptiveIcon": {
@@ -21,7 +21,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.razikus.supabaseexpotemplate"
+      "package": "app.solo_pro"
     },
     "web": {
       "output": "static",
