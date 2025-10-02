@@ -1,0 +1,15 @@
+Solo-Pro
+Copyright 2025 PhillipCollins.com
+
+This product includes software developed by Razikus (Adam).
+Original source: https://github.com/Razikus/supabase-nextjs-template
+Licensed under the Apache License 2.0
+
+Modifications made:
+- Adapted for Solo-Pro relationship intelligence application
+- Updated branding, configuration, and documentation for solo-pro.app
+- Modified app.json with Solo-Pro branding and bundle identifiers
+- Updated supabase/config.toml with solo-pro.app domain and solopro:// scheme
+- Removed template-specific example code and documentation
+- Customized for solo consultant CRM use case
+- Extended roadmap with relationship intelligence features
